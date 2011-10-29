@@ -26,7 +26,7 @@ set ruler               " Always show the cursor position.
 set showcmd             " Display incomplete commands.
 set incsearch           " Do incremental searching.
 set hlsearch            " Highlight latest search pattern.
-set number              " Display line numbers.
+set nonumber            " Display line numbers.
 set numberwidth=4       " Minimum number of columns to show for line numbers.
 set laststatus=2        " Always show a status line.
 set visualbell t_vb=    " Use null visual bell (no beeps or flashes).
