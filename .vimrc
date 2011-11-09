@@ -62,8 +62,8 @@ set colorcolumn=        " ...or margins (but see toggle_highlights.vim).
 
 set virtualedit=block   " Allow virtual editing when in Visual Block mode.
 
-set foldcolumn=3        " Number of columns to show at left for folds.
-set foldnestmax=3       " Only allow 3 levels of folding.
+set foldcolumn=0        " Number of columns to show at left for folds.
+set foldnestmax=0       " Only allow 3 levels of folding.
 set foldlevelstart=99   " Start with all folds open.
 
 set whichwrap+=<,>,[,]  " Allow left/right arrows to move across lines.
