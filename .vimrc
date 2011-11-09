@@ -98,9 +98,9 @@ endif
 
 " Enable mouse support if it's available.
 "
-if has('mouse')
-    set mouse=a
-endif
+"if has('mouse')
+"    set mouse=a
+"endif
 
 
 """
